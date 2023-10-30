@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnya1109" alt="pragnya1109" /></a> </p>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-- 🌱 I’m currently learning **Machine Learning,Agile Methodologies,Devops**
+- 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me **pragnyaps1109@gmail.com**
 
