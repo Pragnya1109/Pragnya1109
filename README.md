@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragnya1109&label=Profile%20views&color=0e75b6&style=flat" alt="pragnya1109" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnya1109" alt="pragnya1109" /></a> </p>
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-- 🌱 I’m currently learning **Software Development**
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+- 🌱 I’m currently learning **Open Source Contributions**
 
 - 📫 How to reach me **pragnyaps1109@gmail.com**
 
