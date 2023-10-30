@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Pragnya1109/Pragnya1109/blob/main/github-header-image.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Pragnya Paramita Swain</h1>
 <h3 align="center">Navigating the exciting confluence of Machine Learning algorithms, DevOps practices, and the collaborative spirit of Open Source</h3>
 
