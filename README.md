@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" />
-</div>
-
+![logo](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
 
 <h1 align="center">Hola !! I'm Pragnya Paramita Swain</h1>
 
@@ -12,11 +9,11 @@
 As a Computer Science Engineering student graduating in 2024, my journey is fueled by a passion for coding and a commitment to contributing to open source projects. I am driven by the potential of these technologies to shape our world and am eager to be part of this exciting revolution. I believe in the power of continuous learning and am always ready to embrace new challenges in this ever-evolving tech landscape.
 
 # 💫 About Me:
-*   🌍  I'm based in INDIA
+*   🌍  Originating from **India**, a hub of innovation and diversity
 *   ✉️  You can contact me at [pragnyaps1109@gmail.com](mailto:pragnyaps1109@gmail.com)
 *   🚀  I'm currently working on [Text-Summarizer](http://github.com/Pragnya1109/Text_Summarizer)
-*   🧠  I'm learning Docker and Jenkins
-*   🤝  I'm open to collaborating on DevOps Projects
+*   🧠  I'm learning Docker and Jenkins.
+*   🤝  I'm open to collaborate with other contributors.
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pragnya1109&theme=radical&no-frame=true&no-bg=true&margin-w=4)
