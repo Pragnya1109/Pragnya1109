@@ -1,4 +1,6 @@
-![logo](https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif)
+<div style="display: flex; justify-content: center;">
+  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" />
+</div>
 
 
 <h1 align="center">Hola !! I'm Pragnya Paramita Swain</h1>
