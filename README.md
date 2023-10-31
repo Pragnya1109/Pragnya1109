@@ -13,7 +13,7 @@
 
 - 🌱 Actively learning and contributing to **Open Source Contributions**
 
-- 📫 How to reach me **pragnyaps1109@gmail.com**
+- 📫 Reach me through **pragnyaps1109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
