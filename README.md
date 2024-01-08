@@ -1,5 +1,3 @@
-![logo](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
-
 <h1 align="center">Hola !! I'm Pragnya Paramita Swain</h1>
 
 <h3 align="center">AI/ML Explorer and Open Source Enthusiast</h3>
@@ -11,7 +9,6 @@ As a Computer Science Engineering student graduating in 2024, my journey is fuel
 # 💫 About Me:
 *   🌍  Originating from **India**, a hub of innovation and diversity
 *   ✉️  You can contact me at [pragnyaps1109@gmail.com](mailto:pragnyaps1109@gmail.com)
-*   🚀  I'm currently working on [Text-Summarizer](http://github.com/Pragnya1109/Text_Summarizer)
 *   🧠  I'm learning Docker and Jenkins.
 *   🤝  I'm open to collaborate with other contributors.
 
